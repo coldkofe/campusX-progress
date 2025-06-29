@@ -48,21 +48,10 @@ This **interactive web-based progress tracker** is specifically designed for peo
 ## 🚀 Live Demo
 
 **🌐 Access the Progress Tracker**: 
+https://coldkofe.github.io/campusX-progress/
 
 **👆 Click the link above to start tracking your DSMP 2.0 journey!**
-
-> **Note**: Replace `YOUR_GITHUB_USERNAME` with your actual GitHub username and `YOUR_REPOSITORY_NAME` with your repository name to get the working link.
-
-**Example**: If your GitHub username is `johnsmith` and repository name is `campusx-progress-tracker`, your link would be:
-`https://johnsmith.github.io/campusx-progress-tracker`
-
-## 🔗 How to Find Your Link
-
-1. **Go to your repository** on GitHub
-2. **Click on "Settings"** tab
-3. **Scroll to "Pages"** section
-4. **Your live site URL** will be displayed there
-5. **Copy and share** that URL with fellow students!
+ 
 
 ## 🎮 How to Use
 
