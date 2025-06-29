@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CampusX DSMP 2.0 Progress Tracker</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1><i class="fas fa-graduation-cap"></i> CampusX DSMP 2.0 Progress Tracker</h1>
+            <div class="progress-overview">
+                <div class="stat-card">
+                    <h3>Overall Progress</h3>
+                    <div class="progress-bar">
+                        <div class="progress-fill" id="overallProgress"></div>
+                    </div>
+                    <span id="overallPercentage">0%</span>
+                </div>
+                <div class="stat-card">
+                    <h3>Completed Sessions</h3>
+                    <span id="completedSessions">0</span> / <span id="totalSessions">0</span>
+                </div>
+                <div class="stat-card">
+                    <h3>Current Week</h3>
+                    <span id="currentWeek">Week 1</span>
+                </div>
+            </div>
+        </header>
+
+        <nav class="filter-nav">
+            <button class="filter-btn active" data-filter="all">All Weeks</button>
+            <button class="filter-btn" data-filter="python">Python Basics</button>
+            <button class="filter-btn" data-filter="data">Data Science</button>
+            <button class="filter-btn" data-filter="ml">Machine Learning</button>
+            <button class="filter-btn" data-filter="advanced">Advanced Topics</button>
+            <button class="filter-btn" data-filter="mlops">MLOps</button>
+            <button class="filter-btn" data-filter="interview">Interview Prep</button>
+        </nav>
+
+        <main class="content">
+            <div class="weeks-container" id="weeksContainer">
+                <!-- Weeks will be dynamically generated here -->
+            </div>
+        </main>
+
+        <div class="floating-actions">
+            <button class="fab" id="resetProgress" title="Reset All Progress">
+                <i class="fas fa-redo"></i>
+            </button>
+            <button class="fab" id="exportProgress" title="Export Progress">
+                <i class="fas fa-download"></i>
+            </button>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
