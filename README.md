@@ -7,7 +7,7 @@
 
 ## 📖 Our Story
 
-When we embarked on the comprehensive **CampusX Data Science Master Program (DSMP) 2.0**, we quickly realized the sheer magnitude of the curriculum ahead of us. With **400+ sessions**, covering everything from Python fundamentals to advanced MLOps, spanning across **60+ weeks** of intensive learning, we found ourselves struggling with a common problem:
+When we embarked on the comprehensive **CampusX Data Science Master Program (DSMP) 2.0**, we quickly realized the sheer magnitude of the curriculum ahead of us. With **200+ sessions**, covering everything from Python fundamentals to advanced MLOps, spanning across **60+ weeks** of intensive learning, we found ourselves struggling with a common problem:
 
 > *"How do we effectively track our progress through this massive learning journey?"*
 
@@ -22,11 +22,11 @@ That's when we decided to build our own solution! 🚀
 
 ## 🌟 What We Built
 
-This **interactive web-based progress tracker** is specifically designed for CampusX DSMP 2.0 students. It transforms the overwhelming curriculum into a manageable, visual journey where every session completion feels like a victory.
+This **interactive web-based progress tracker** is specifically designed for people following the CampusX DSMP series. It transforms the overwhelming curriculum into a manageable, visual journey where every session completion feels like a victory.
 
 ### ✨ Key Features
 
-- **📚 Complete DSMP 2.0 Coverage**: All 400+ sessions from Python basics to advanced MLOps
+- **📚 Complete DSMP 2.0 Coverage**: All 200+ sessions from Python basics to advanced MLOps
 - **💾 Persistent Progress**: Your progress is saved locally and never lost
 - **📊 Visual Progress Bars**: See your overall progress and week-wise completion
 - **🔍 Smart Filtering**: Filter by Python, Data Science, ML, Advanced Topics, MLOps, or Interview Prep
@@ -64,5 +64,5 @@ This **interactive web-based progress tracker** is specifically designed for Cam
 - **Hosting**: GitHub Pages (Free and reliable)
 - **Design**: Responsive CSS Grid and Flexbox
 
-## 📁 Project Structure
+  **Happy Learning and Happy Tracking!** 🎓✨
 
